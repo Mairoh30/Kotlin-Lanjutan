@@ -2,17 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ec1b5e1-a361-4dbb-8055-f0466142bf86" name="Changes" comment="lanjut">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/array.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/array2dimensi.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/arrayListOf.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/arraymethod.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/arraymultidimensi.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/arrayprimitive.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/collections.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/librarykotlin.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/listOf.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mutableListOf.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/set.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArgumenDefaultFungsi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FungsiEkspresiTunggal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Pairsebagainilaikembali.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/akarkuadrat.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/break_continue.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/break_continuelabel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/elvisoperator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/for_loop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/forloop_kalku.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/forloop_perkalian.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsidengannilaikembali.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsimath.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsitanpanilaikembali.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kalku_ifelseif.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kalku_when.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kondisinull.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/luaskeliling_lingkaran.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/map.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/nullsafety.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/operator!!.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/operator!!_2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/penanganan_eksepsi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/percabangan.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/percabangan2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ranges.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/return_forloop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/safecalls.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/when.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/whiledowhile.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/whileloop_kalku.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,13 +58,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Kotlin.Penanganan_eksepsiKt">
     <configuration name="ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayKt" />
       <module name="Kotlin-Lanjutan" />
@@ -53,8 +72,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Operator___2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operator___2Kt" />
+      <module name="Kotlin-Lanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Penanganan_eksepsiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Penanganan_eksepsiKt" />
+      <module name="Kotlin-Lanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Penanganan_eksepsiKt" />
+        <item itemvalue="Kotlin.Operator___2Kt" />
         <item itemvalue="Kotlin.ArrayKt" />
       </list>
     </recent_temporary>
@@ -75,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725940188760</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lanjut">
+      <created>1725948484708</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725948484708</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
