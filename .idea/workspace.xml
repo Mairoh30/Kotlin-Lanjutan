@@ -2,37 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ec1b5e1-a361-4dbb-8055-f0466142bf86" name="Changes" comment="lanjut">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArgumenDefaultFungsi.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FungsiEkspresiTunggal.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Pairsebagainilaikembali.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/akarkuadrat.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/break_continue.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/break_continuelabel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/elvisoperator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/for_loop.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/forloop_kalku.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/forloop_perkalian.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsidengannilaikembali.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsimath.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsitanpanilaikembali.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kalku_ifelseif.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kalku_when.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kondisinull.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/luaskeliling_lingkaran.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/map.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/nullsafety.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/operator!!.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/operator!!_2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/penanganan_eksepsi.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/percabangan.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/percabangan2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ranges.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/return_forloop.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/safecalls.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/when.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/whiledowhile.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/whileloop_kalku.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/arraytemplate.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/array.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/array.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,9 +36,16 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Penanganan_eksepsiKt">
+  <component name="RunManager" selected="Kotlin.ArraytemplateKt">
     <configuration name="ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayKt" />
+      <module name="Kotlin-Lanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraytemplateKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraytemplateKt" />
       <module name="Kotlin-Lanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,9 +67,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ArraytemplateKt" />
+        <item itemvalue="Kotlin.ArrayKt" />
         <item itemvalue="Kotlin.Penanganan_eksepsiKt" />
         <item itemvalue="Kotlin.Operator___2Kt" />
-        <item itemvalue="Kotlin.ArrayKt" />
       </list>
     </recent_temporary>
   </component>
@@ -117,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725948484708</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lanjut">
+      <created>1726322804846</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726322804846</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
