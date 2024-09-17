@@ -23,5 +23,4 @@ fun main(args: Array<String>) {
     // val e: Int = 5 / 2.0
     // val f: Double = 5 / 2
     print("$a\n$b\n$c\n$d")
-
 }

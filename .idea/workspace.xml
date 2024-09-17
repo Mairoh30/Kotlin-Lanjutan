@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ec1b5e1-a361-4dbb-8055-f0466142bf86" name="Changes" comment="lanjut">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/arraytemplate.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/array.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/array.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/fungsimath.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/fungsimath.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,23 +35,23 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ArraytemplateKt">
-    <configuration name="ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayKt" />
+  <component name="RunManager" selected="Kotlin.Luaskeliling_lingkaranKt">
+    <configuration name="ElvisoperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ElvisoperatorKt" />
       <module name="Kotlin-Lanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraytemplateKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraytemplateKt" />
+    <configuration name="FungsimathKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FungsimathKt" />
       <module name="Kotlin-Lanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operator___2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operator___2Kt" />
+    <configuration name="Luaskeliling_lingkaranKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Luaskeliling_lingkaranKt" />
       <module name="Kotlin-Lanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,12 +64,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SafecallsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SafecallsKt" />
+      <module name="Kotlin-Lanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.ArraytemplateKt" />
-        <item itemvalue="Kotlin.ArrayKt" />
+        <item itemvalue="Kotlin.Luaskeliling_lingkaranKt" />
+        <item itemvalue="Kotlin.FungsimathKt" />
         <item itemvalue="Kotlin.Penanganan_eksepsiKt" />
-        <item itemvalue="Kotlin.Operator___2Kt" />
+        <item itemvalue="Kotlin.ElvisoperatorKt" />
+        <item itemvalue="Kotlin.SafecallsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726322804846</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lanjut">
+      <created>1726579701280</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726579701280</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
